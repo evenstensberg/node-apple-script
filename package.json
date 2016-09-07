@@ -1,0 +1,15 @@
+{
+  "name": "node-apple-script",
+  "version": "0.0.1",
+  "description": "Execute Mac commands as javascript functions",
+  "repository": "https://github.com/ev1stensberg/node-apple-script",
+  "main": "index.js",
+  "keywords": [
+    "mac",
+    "commands",
+    "apple",
+    "applescript"
+  ],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT"
+}
