@@ -8,26 +8,26 @@ Node Apple Script is what it says it is, nothing less. It lets you execute Apple
 
 #Usage
 
-*lightsUp - Adjust lumination + 1
-*lightsDown - Adjust lumination - 1
-*highlightPrevious - Similar to command + arrow up
-*densityDown - makes screen less sharpened
-*densityUp - makes screen sharper
-*launchPad - Switches to launchPad
-*splitScreen - Splits the screen, similar to F4
-*spreadScreen - Spreads windows to edges
-*closeWindow - Closes the current window
-*closeEverything - Similar to Command + Q
-*newTab - Command + n
-*newWindow - creates a new window
-*splitTabs - Similar to Cmd + D
-*search - cmd + d
-*clear - cmd + k
-*paste - cmd + v
-*hide - cmd + m
-*zoom - zooms terminal tab
-*config - opens the settings
-*minimize - zooms out from terminal
+* lightsUp - Adjust lumination + 1
+* lightsDown - Adjust lumination - 1
+* highlightPrevious - Similar to command + arrow up
+* densityDown - makes screen less sharpened
+* densityUp - makes screen sharper
+* launchPad - Switches to launchPad
+* splitScreen - Splits the screen, similar to F4
+* spreadScreen - Spreads windows to edges
+* closeWindow - Closes the current window
+* closeEverything - Similar to Command + Q
+* newTab - Command + n
+* newWindow - creates a new window
+* splitTabs - Similar to Cmd + D
+* search - cmd + d
+* clear - cmd + k
+* paste - cmd + v
+* hide - cmd + m
+* zoom - zooms terminal tab
+* config - opens the settings
+* minimize - zooms out from terminal
 *shutDown - shuts down the computer
 *screenshot - creates a screenshot
 *mute - mutes the volume
