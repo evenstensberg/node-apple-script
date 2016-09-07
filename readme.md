@@ -1,6 +1,6 @@
 #Node Apple Script
 
-Node Apple Script is what it says it is, nothing less. It lets you execute Apple commands, using Javascript functions.
+>Node Apple Script is what it says it is, nothing less. It lets you execute Apple commands, using Javascript functions. 
 
 #Installation
 
@@ -8,31 +8,41 @@ Node Apple Script is what it says it is, nothing less. It lets you execute Apple
 
 #Usage
 
-* lightsUp - Adjust lumination + 1
-* lightsDown - Adjust lumination - 1
-* highlightPrevious - Similar to command + arrow up
-* densityDown - makes screen less sharpened
-* densityUp - makes screen sharper
-* launchPad - Switches to launchPad
-* splitScreen - Splits the screen, similar to F4
-* spreadScreen - Spreads windows to edges
-* closeWindow - Closes the current window
-* closeEverything - Similar to Command + Q
-* newTab - Command + n
-* newWindow - creates a new window
-* splitTabs - Similar to Cmd + D
-* search - cmd + d
-* clear - cmd + k
-* paste - cmd + v
-* hide - cmd + m
-* zoom - zooms terminal tab
-* config - opens the settings
-* minimize - zooms out from terminal
-* shutDown - shuts down the computer
-* screenshot - creates a screenshot
-* mute - mutes the volume
-* volumeUp - sets the volume up
+| Option | Description |
+| ------ | ----------- |
+| lightsUp   | Increment Brightness |
+| lightsDown | Decrement Brightness |
+| highlightPrevious    | Equivalent to ⌘ + arrow up  |
+| densityDown    | Decrement Screen Density |
+| densityUp    | Increment Screen Density  |
+| launchPad    | Redirects you to launchPad |
+| splitScreen    | Shows active sessions |
+| spreadScreen    | Spreads active sessions |
+| closeWindow    | Closes the current window |
+| closeEverything    | Close the current program |
+| newTab    | Creates a new tab in terminal |
+| newWindow    | Creates a new window in terminal |
+| splitTabs    | Splits terminal window into smaller ones |
+| search    | Search for something in the terminal |
+| clear    | clear current terminal text |
+| paste    | Paste current text into terminal |
+| hide    | Hides terminal session |
+| zoom    | Makes terminal window bigger |
+| config    | Displays the current settings |
+| minimize    | Makes terminal window smaller |
+| shutDown    | Shuts down the computer |
+| screenshot    | Takes a screenshot |
+| mute    | Mutes volume |
+| volumeUp    | Sets the volume up |
 
+#Example
+
+```js
+const lightsUp = require('node-apple-script').lightsUp
+
+lightsUp()
+
+```
 #License
 
 The MIT License (MIT)
