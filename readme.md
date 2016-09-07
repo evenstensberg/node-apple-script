@@ -28,10 +28,10 @@ Node Apple Script is what it says it is, nothing less. It lets you execute Apple
 * zoom - zooms terminal tab
 * config - opens the settings
 * minimize - zooms out from terminal
-*shutDown - shuts down the computer
-*screenshot - creates a screenshot
-*mute - mutes the volume
-*volumeUp - sets the volume up
+* shutDown - shuts down the computer
+* screenshot - creates a screenshot
+* mute - mutes the volume
+* volumeUp - sets the volume up
 
 #License
 
