@@ -2,6 +2,7 @@
 
 >Node Apple Script is what it says it is, nothing less. It lets you execute Apple commands, using Javascript functions. 
 
+[![NPM](https://nodei.co/npm/node-apple-script.png)](https://npmjs.org/package/node-apple-script)
 #Installation
 
 `npm install --save node-apple-script`
