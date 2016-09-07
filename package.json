@@ -1,6 +1,6 @@
 {
   "name": "node-apple-script",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Execute Mac commands as javascript functions",
   "repository": "https://github.com/ev1stensberg/node-apple-script",
   "main": "index.js",
