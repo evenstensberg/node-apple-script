@@ -1,13 +1,13 @@
-#Node Apple Script
+# Node Apple Script
 
->Node Apple Script is what it says it is, nothing less. It lets you execute Apple commands, using Javascript functions. 
+> Node Apple Script is what it says it is, nothing less. It lets you execute Apple commands, using Javascript functions. 
 
 [![NPM](https://nodei.co/npm/node-apple-script.png)](https://npmjs.org/package/node-apple-script)
-#Installation
+# Installation
 
 `npm install --save node-apple-script`
 
-#Usage
+# Usage
 
 | Option | Description |
 | ------ | ----------- |
@@ -36,7 +36,7 @@
 | mute    | Mutes volume |
 | volumeUp    | Sets the volume up |
 
-#Example
+# Example
 
 ```js
 const lightsUp = require('node-apple-script').lightsUp
@@ -44,7 +44,7 @@ const lightsUp = require('node-apple-script').lightsUp
 lightsUp()
 
 ```
-#License
+# License
 
 The MIT License (MIT)
 Copyright (c) 2016 Even Stensberg [@ev1stensberg](https://twitter.com/ev1stensberg) 
